@@ -1,6 +1,4 @@
 import { useState } from "react";
-//import AddIcon from "@mui/icons-material/Add";
-//import RemoveIcon from "@mui/icons-material/Remove";
 
 <link
   href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&display=swap"
